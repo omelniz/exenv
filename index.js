@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 function convertEnvToExample(str) {
   if (!str || typeof str !== 'string') {
     throw new Error('Please provide string')

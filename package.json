@@ -1,8 +1,9 @@
 {
   "name": "env-to-example",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Convert env-variable to example string",
   "main": "index.js",
+  "bin": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/omelniz/exenv.git"
