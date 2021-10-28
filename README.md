@@ -9,11 +9,11 @@ from: api-host.com
 ```
 
 ## Easy to use
-`npx exenv "https://string-to-convert.com"`
+`npx env-to-example "https://string-to-convert.com"`
 
 ## Examples
 ```
-npx exenv "us-east-1" // => "xx-xxxx-x"
-npx exenv "http://google.com" // => "http://xxxxxx.xxx"
-npx exenv "some-secret-key" // => "xxxx-xxxxxx-xxx"
+npx env-to-example "us-east-1" // => "xx-xxxx-x"
+npx env-to-example "http://google.com" // => "http://xxxxxx.xxx"
+npx env-to-example "some-secret-key" // => "xxxx-xxxxxx-xxx"
 ```
