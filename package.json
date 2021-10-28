@@ -1,5 +1,5 @@
 {
-  "name": "exenv",
+  "name": "env-to-example",
   "version": "1.0.0",
   "description": "Convert env-variable to example string",
   "main": "index.js",
@@ -16,6 +16,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/omelniz/exenv/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "homepage": "https://github.com/omelniz/exenv#readme"
 }
