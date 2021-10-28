@@ -1,6 +1,6 @@
 # EX.ENV
 
-![Logo](https://github.com/omelniz/exenv/blob/master/logo.png)
+![Logo](https://github.com/omelniz/exenv/blob/main/logo.png)
 
 Convert env-variable to example string
 
