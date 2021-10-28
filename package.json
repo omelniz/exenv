@@ -1,0 +1,21 @@
+{
+  "name": "exenv",
+  "version": "1.0.0",
+  "description": "Convert env-variable to example string",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omelniz/exenv.git"
+  },
+  "keywords": [
+    "env",
+    "dotenv",
+    "example"
+  ],
+  "author": "Alex Omelnitckii <omelniz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omelniz/exenv/issues"
+  },
+  "homepage": "https://github.com/omelniz/exenv#readme"
+}
